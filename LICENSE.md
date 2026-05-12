@@ -1,4 +1,4 @@
-# 
+# quantitative sushiswap trading bot Strategy | gas-optimization + price-impact-analysis offers the most advanced sushiswap trading bot, with gas-optimization and
 
 
 
